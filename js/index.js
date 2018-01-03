@@ -81,15 +81,15 @@
         break;
         
       case "php":
-        search = "php";
+        search = "php tutorial";
         break;
         
       case "node.js":
-        search = "Node.js";
+        search = "node.js tutorial";
         break;
         
       case "pase":
-        search = "pase";
+        search = "pase tutorial";
         break;
         
       case "editors":

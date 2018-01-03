@@ -89,7 +89,7 @@ entries = [
   },
   {
     "link": "https://www.ibm.com/developerworks/ibmi/library/i-native-js-app-ibmi-with-nodejs/",
-    "title": "Native JavaScript applications on IBM i with Node.js"
+    "title": "Native JavaScript applications on IBM i with Node.js (intro tutorial)"
   },
   {
     "link": "http://www-01.ibm.com/support/knowledgecenter/ssw_i5_54/cl/mrgsrc.htm",
@@ -97,7 +97,7 @@ entries = [
   },
   {
     "link": "http://www.tutorialspoint.com/nodejs/nodejs_restful_api.htm",
-    "title": "Node.js RESTful API"
+    "title": "Node.js RESTful API (tutorial)"
   },
   {
     "link": "http://www-01.ibm.com/common/ssi/ShowDoc.wss?docURL=/common/ssi/rep_ca/3/872/ENUSAP15-0343/index.html&lang=en&request_locale=en",
@@ -661,15 +661,15 @@ entries = [
   },
   {
     "link": "https://www-356.ibm.com/partnerworld/wps/servlet/ContentHandler/pw_com_porting_ibmi_pase",
-    "title": "IBM PartnerWorld - IBM PASE for i"
+    "title": "IBM PartnerWorld - IBM PASE for i  (intro tutorial)"
   },
   {
     "link": "http://yips.idevcloud.com/wiki/index.php/PASE/PASENutshell",
-    "title": "YiPs Wiki (i powered) - PASE Nutshell"
+    "title": "YiPs Wiki (i powered) - PASE Nutshell (intro tutorial)"
   },
   {
-    "link": "https://www.ibm.com/support/knowledgecenter/ssw_ibm_i_71/rzalf/rzalfintro.htm",
-    "title": "IBM PASE for i"
+    "link": "https://www.ibm.com/support/knowledgecenter/ssw_ibm_i_73/rzalf/rzalfintro.htm",
+    "title": "IBM PASE for i (documentation)"
   },
   {
     "link": "https://stackoverflow.com/questions/20198551/is-there-a-difference-between-collection-and-library-in-sql",
@@ -725,7 +725,7 @@ entries = [
   { "title": "Giti", "link":"https://github.com/Club-Seiden/giti" },
   { "title": "ibm-i-enhanced", "link":"https://github.com/pierrickrouxel/ibm-i-enhanced" },
   { "title": "ibm_db for Python", "link":"https://github.com/ibmdb/python-ibmdb/wiki/APIs" },
-  { "title": "ibmi (Node.js)", "link":"https://github.com/smokerbag/ibmi" },
+  { "title": "ibmi client (Node.js)", "link":"https://github.com/smokerbag/ibmi" },
   { "title": "ibmichroot", "link":"https://bitbucket.org/litmis/ibmichroot" },
   { "title": "ibmidash", "link":"https://bitbucket.org/litmis/ibmidash" },
   { "title": "ibmiperzl", "link":"https://bitbucket.org/litmis/ibmiperzl" },
@@ -798,8 +798,8 @@ entries = [
   { "title": "Blog with various IBM i Open Source articles by Josh Hall", "link": "http://sobo.red" },
   { "title": "youngiprofessionals / YiPs", "link": "http://youngiprofessionals.com"},
   { "title": "Using Git from RDi", "link": "http://www.shieldadvanced.com/Blog/ibm-i/getting-ready-for-open-source-development/"},
-  { "title": "PHP on IBM i Blog", "link": "https://godzillai5.wordpress.com/" },
-  { "title": "Node.js, PASE, and Python Intro", "link": "https://www.gitbook.com/@litmis"},
+  { "title": "PHP on IBM i Blog (tutorials)", "link": "https://godzillai5.wordpress.com/" },
+  { "title": "Node.js, PASE, and Python Intro (tutorial)", "link": "https://www.gitbook.com/@litmis"},
   { "title": "ILEditor, a free ILE/RPG IDE", "link": "http://worksofbarry.com/ileditor/"},
   { "title": "IBM i documentation (all versions)", "link": "https://www.ibm.com/support/knowledgecenter/ssw_ibm_i"},
   { "title": "Coding in RPG IV - a beginner's tutorial", "link": "http://ibm.biz/rpgCafe_Rpg_Tutorial_Older_Syntax"},
@@ -807,9 +807,9 @@ entries = [
   { "title": "Rational Developer for i (IDE / Editor)", "link": "https://www.ibm.com/developerworks/downloads/r/rdi/index.html"},
   { "title": "IBMiCmd: x86 Notepad++ plugin for ILE development on IBM i (Editor)", "link": "http://worksofbarry.com/npp/"},
   { "title": "SQL's Other Fetch Options", "link": "https://www.itjungle.com/2009/05/13/fhg051309-story02/" },
-  { "title": "Node.js (developerWorks)", "link": "https://www.ibm.com/developerworks/community/wikis/home?lang=en#!/wiki/IBM%20i%20Technology%20Updates/page/Node.js" },
+  { "title": "Node.js (developerWorks) (tutorials)", "link": "https://www.ibm.com/developerworks/community/wikis/home?lang=en#!/wiki/IBM%20i%20Technology%20Updates/page/Node.js" },
   { "title": "Node.js: DB2 for i Access APIs - New", "link": "https://www.ibm.com/developerworks/community/wikis/home?lang=en#!/wiki/IBM%20i%20Technology%20Updates/page/DB2%20for%20i%20Access%20APIs%20-%20New" },
-  { "title": "The new DB2 driver and toolkit for Node.js on IBM i", "link": "https://www.ibm.com/developerworks/community/wikis/home?lang=en#!/wiki/IBM%20i%20Technology%20Updates/page/The%20new%20DB2%20driver%20and%20toolkit%20for%20Node.js%20on%20IBM%20i" },
+  { "title": "The new DB2 driver and toolkit for Node.js on IBM i (tutorial)", "link": "https://www.ibm.com/developerworks/community/wikis/home?lang=en#!/wiki/IBM%20i%20Technology%20Updates/page/The%20new%20DB2%20driver%20and%20toolkit%20for%20Node.js%20on%20IBM%20i" },
   { "title": "Common IBM i API Prototypes for RPG", "link": "http://www.midrangenews.com/view?id=2384" },
   { "title": "Using SSH-COPY-ID (tutorial)", "link": "https://www.ssh.com/ssh/copy-id"},
   { "title": "IBM i Home", "link": "https://www.ibm.com/power/operating-systems/ibm-i"},
@@ -826,7 +826,12 @@ entries = [
   { "title": "Db2 for i forum", "link": "https://www.ibm.com/developerworks/community/forums/html/forum?id=11111111-0000-0000-0000-000000000292&ps=25"},
   { "title": "IBM i developerWorks (documentation)", "link":"https://www.ibm.com/developerworks/learn/ibmi/index.html"},
   { "title": "RPGLE - Web Requests with Embedded SQL (tutorial)", "link": "http://worksofbarry.com/?4"},
-  { "title": "RPGLE - Writing and reading IFS files  (tutorial)", "link": "http://worksofbarry.com/?3"}
+  { "title": "RPGLE - Writing and reading IFS files  (tutorial)", "link": "http://worksofbarry.com/?3"},
+  { "title": "Open Source Technologies Tools (bash/pase, tutorial)", "link": "https://www.ibm.com/developerworks/community/wikis/home?lang=en&_escaped_fragment_=/wiki/IBM%2520i%2520Technology%2520Updates/page/Tools"},
+  { "title": "BASH on IBM i (pase tutorial)", "link": "http://sobo.red/BASH-on-IBM-i/"},
   
+  
+  { "title": "Seiden Group - The PHP on IBM i Experts", "link": "https://www.seidengroup.com/"},
+  { "title": "Seiden Group Blog - PHP & IBM i Tips (tutorials)", "link": "https://www.seidengroup.com/blog/"}
   
 ] 

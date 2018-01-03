@@ -837,6 +837,7 @@ entries = [
   { "title": "Building a REST service with integrated web services server for IBM i: Part 3", "link": "https://www.ibm.com/developerworks/ibmi/library/i-rest-web-services-server3/"},
   { "title": "TechTip: Shoot for Orion with Your RPG (editor)", "link": "https://www.mcpressonline.com/programming/rpg/techtip-shoot-for-orion-with-your-rpg"},
   { "title": "Starting the OpenSSH Server (SSHD) on IBM i (pase, tutorial)", "link": "http://www-01.ibm.com/support/docview.wss?uid=nas8N1012910"},
+  { "title": "DB2 for i - blog of Mike Cain", "link": "http://db2fori.blogspot.co.uk/"},
   
   
   { "title": "Seiden Group - The PHP on IBM i Experts", "link": "https://www.seidengroup.com/"},

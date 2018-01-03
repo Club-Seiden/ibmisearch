@@ -108,3 +108,7 @@
   document.getElementById("search").focus();
   populateNewest();
   $('#indexsize').text(entries.length)
+  
+  $( "body" ).fadeIn( "slow", function() {
+    // Animation complete
+  });

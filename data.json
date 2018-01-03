@@ -829,9 +829,16 @@ entries = [
   { "title": "RPGLE - Writing and reading IFS files  (tutorial)", "link": "http://worksofbarry.com/?3"},
   { "title": "Open Source Technologies Tools (bash/pase, tutorial)", "link": "https://www.ibm.com/developerworks/community/wikis/home?lang=en&_escaped_fragment_=/wiki/IBM%2520i%2520Technology%2520Updates/page/Tools"},
   { "title": "BASH on IBM i (pase tutorial)", "link": "http://sobo.red/BASH-on-IBM-i/"},
+  { "title": "midrangeWiki", "link": "https://wiki.midrange.com/index.php/Main_Page"},
+  { "title": "Seiden Group Blog - PHP & IBM i Tips (tutorials)", "link": "https://www.seidengroup.com/blog/"},
+  { "title": "Running Node-RED on IBM i: Installation and first flow (Node.js)", "link": "https://www.ibm.com/developerworks/ibmi/library/i-running-node-red/" },
+  { "title": "Building a REST service with integrated web services server for IBM i: Part 1", "link": "https://www.ibm.com/developerworks/ibmi/library/i-rest-web-services-server1/"},
+  { "title": "Building a REST service with integrated web services server for IBM i: Part 2", "link": "https://www.ibm.com/developerworks/ibmi/library/i-rest-web-services-server2/"},
+  { "title": "Building a REST service with integrated web services server for IBM i: Part 3", "link": "https://www.ibm.com/developerworks/ibmi/library/i-rest-web-services-server3/"},
+  { "title": "TechTip: Shoot for Orion with Your RPG (editor)", "link": "https://www.mcpressonline.com/programming/rpg/techtip-shoot-for-orion-with-your-rpg"},
+  { "title": "Starting the OpenSSH Server (SSHD) on IBM i (pase, tutorial)", "link": "http://www-01.ibm.com/support/docview.wss?uid=nas8N1012910"},
   
   
   { "title": "Seiden Group - The PHP on IBM i Experts", "link": "https://www.seidengroup.com/"},
-  { "title": "Seiden Group Blog - PHP & IBM i Tips (tutorials)", "link": "https://www.seidengroup.com/blog/"}
   
 ] 

@@ -1,0 +1,71 @@
+ body {
+    font-family: "Helvetica Neue", Helvetica, Roboto, Arial, sans-serif;
+}
+ a:link {
+    text-decoration: none;
+}
+ #toptext {
+     box-sizing: border-box;
+     border-radius: .3rem;
+     padding-top: 1rem;
+}
+ #toptext #topcontent {
+     max-width: 25rem;
+     margin: 0 auto;
+}
+ #toptext h1 {
+    font-weight: 400;
+}
+ #toptext #image {
+     width: 4em;
+     vertical-align: middle;
+}
+ #bodycontent {
+    max-width: 64rem;
+    padding: 1rem 6rem;
+    margin: 0 auto;
+}
+#quicksearch {
+  text-align: right;
+  position:inherit;
+  padding-left: 2px;
+  padding-top: 2px;
+}
+#qsbutton {
+  color: blue;
+  text-decoration: underline;
+  cursor: pointer;
+}
+ input[type=text] {
+     width: 100%;
+     box-sizing: border-box;
+     border: 2px solid #ccc;
+     border-radius: 4px;
+     font-size: 16px;
+     background-color: white;
+     background-image: url('../img/searchicon.png');
+     background-position: 10px 10px;
+     background-repeat: no-repeat;
+     padding: 12px 20px 12px 40px;
+     -webkit-transition: width 0.4s ease-in-out;
+     transition: width 0.4s ease-in-out;
+}
+
+#list2 ol {
+     font-size:24px;
+     color:red;
+}
+ #list2 ol li {
+   padding: 0.1rem 0.5rem;
+}
+ #list2 ol li p #title {
+     display:block;
+     font-size:25px;
+}
+ #list2 ol li p {
+     padding:8px;
+     font-style:normal;
+     font-size:10px;
+     color:#000000;
+     border-left: 1px solid #000000;
+}

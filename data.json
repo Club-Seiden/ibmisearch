@@ -1,0 +1,832 @@
+entries = [
+  {
+    "link": "http://www.rpgiv.info/mambo/index.php?option=com_content&task=view&id=140&Itemid=9",
+    "title": "A Machine Interface (MI) Compiler - RPGIV @ Work"
+  },
+  {
+    "link": "https://www-01.ibm.com/support/knowledgecenter/ssw_ibm_i_72/rzatk/MIpgmg.htm",
+    "title": "Machine interface programming"
+  },
+  {
+    "link": "http://www-01.ibm.com/support/knowledgecenter/ssw_ibm_i_71/rzatk/mitoc.htm",
+    "title": "IBM i® Machine Interface"
+  },
+  {
+    "link": "http://permalink.gmane.org/gmane.comp.hardware.ibm.midrange/127513",
+    "title": "Question on TIMI implementation."
+  },
+  {
+    "link": "https://publib.boulder.ibm.com/iseries/v5r2/ic2924/index.htm?info/rzamh/rzamhaccess.htm",
+    "title": "iSeries Information Center"
+  },
+  {
+    "link": "http://www.mcpressonline.com/rpg/a-more-complete-view-of-the-machine-interface-of-ibm-i.html",
+    "title": "A More Complete View of the Machine Interface of IBM i | RPG"
+  },
+  {
+    "link": "http://www.leif.org/as400/programs/",
+    "title": "AS/400 Programs"
+  },
+  {
+    "link": "https://www.ibm.com/support/knowledgecenter/ssw_ibm_i_72/rzatk/MININ.htm",
+    "title": "Machine Interface Introduction"
+  },
+  {
+    "link": "https://www.ibm.com/support/knowledgecenter/ssw_ibm_i_73/rzatk/mitoc.htm",
+    "title": "7.3 IBM Knowledge Center - IBM i Machine Interface"
+  },
+  {
+    "link": "http://www.ibm.com/support/knowledgecenter/en/ssw_ibm_i_73/rzatk/mitoc.htm",
+    "title": "IBM i 7.3 Machine Interface"
+  },
+  {
+    "link": "https://www.ibm.com/support/knowledgecenter/en/ssw_ibm_i_71/rzatk/mitoc.htm",
+    "title": "machine interface 7.1"
+  },
+  {
+    "link": "https://www.ibm.com/support/knowledgecenter/ssw_ibm_i_73/rzatk/inst.htm",
+    "title": "machine interface 7.3"
+  },
+  {
+    "link": "http://news.gmane.org/gmane.comp.systems.as400.web",
+    "title": "gmane.comp.systems.as400.web "
+  },
+  {
+    "link": "http://www-01.ibm.com/support/knowledgecenter/ssw_i5_54/rzajp/rzajprpgi.htm",
+    "title": "Coding SQL statements in ILE RPG applications (tutorial)"
+  },
+  {
+    "link": "http://www.rpgpgm.com/2015/06/using-sql-to-get-information-from-job.html",
+    "title": "Using SQL to get information from Job Logs | RPGPGM.COM"
+  },
+  {
+    "link": "http://www.martinvt.com/",
+    "title": "RPG programming projects"
+  },
+  {
+    "link": "http://www.mysamplecode.com/2011/07/rpgle-service-program-example-iseries.html",
+    "title": "RPGLE Service Program Example - iSeries (AS400)"
+  },
+  {
+    "link": "https://www.ibm.com/developerworks/community/wikis/home?lang=en#!/wiki/IBM%20i%20Technology%20Updates/page/DB2%20for%20i%20-%20Services",
+    "title": "DB2 for i : Services"
+  },
+  {
+    "link": "http://www.ibm.com/developerworks/ibmi/library/i-debug/",
+    "title": "Debug IBM i programs graphically"
+  },
+  {
+    "link": "http://miworkplace.rpgnextgen.com/",
+    "title": "MiWorkplace - Editor for IBM i"
+  },
+  {
+    "link": "http://www-01.ibm.com/support/knowledgecenter/api/content/ssw_ibm_i_72/rzasd/rzasdmain.htm",
+    "title": "ILE RPG Reference"
+  },
+  {
+    "link": "https://www.npmjs.com/package/jt400",
+    "title": "jt400 (npm)"
+  },
+  {
+    "link": "https://www.ibm.com/developerworks/ibmi/library/i-native-js-app-ibmi-with-nodejs/",
+    "title": "Native JavaScript applications on IBM i with Node.js"
+  },
+  {
+    "link": "http://www-01.ibm.com/support/knowledgecenter/ssw_i5_54/cl/mrgsrc.htm",
+    "title": "Merge Source (MRGSRC)"
+  },
+  {
+    "link": "http://www.tutorialspoint.com/nodejs/nodejs_restful_api.htm",
+    "title": "Node.js RESTful API"
+  },
+  {
+    "link": "http://www-01.ibm.com/common/ssi/ShowDoc.wss?docURL=/common/ssi/rep_ca/3/872/ENUSAP15-0343/index.html&lang=en&request_locale=en",
+    "title": "IBM i 7.2 TR3 and IBM i 7.1 TR11 offer performance, usability, and integration enhancements"
+  },
+  {
+    "link": "https://www.ibm.com/developerworks/community/wikis/home?lang=en#!/wiki/We13116a562db_467e_bcd4_882013aec57a/page/Fully%20free-form%20RPG%20-%20new%20in%207.1%20and%207.2",
+    "title": "RPG Cafe : Fully free:form RPG : new in 7.1 and 7.2"
+  },
+  {
+    "link": "https://www-01.ibm.com/support/knowledgecenter/ssw_aix_61/com.ibm.aix.alangref/alangref_kickoff.htm",
+    "title": "Assembler language reference"
+  },
+  {
+    "link": "http://www-01.ibm.com/support/knowledgecenter/ssw_ibm_i_72/rzalf/rzalfcallile.htm",
+    "title": "Calling IBM i programs and procedures from your IBM PASE for i programs"
+  },
+  {
+    "link": "http://www.ibmsystemsmag.com/ibmi/developer/general/nodejs-rpg-db2/",
+    "title": "IBM Systems Magazine - Node Nods To RPG and DB2"
+  },
+  {
+    "link": "https://www.ibm.com/developerworks/community/wikis/home?lang=en#!/wiki/IBM%20i%20Technology%20Updates/page/Access%20IBM%20i%20Native%20Objects",
+    "title": "IBM i Technology Updates : Access IBM i Native Objects"
+  },
+  {
+    "link": "https://wiki.filezilla-project.org/Post_login_commands",
+    "title": "Post login commands (FTP for IBM i) - FileZilla Wiki"
+  },
+  {
+    "link": "https://publib.boulder.ibm.com/iseries/v5r1/ic2924/info/rzaid/nativepdf.pdf",
+    "title": "call"
+  },
+  {
+    "link": "http://publib.boulder.ibm.com/html/as400/v4r5/ic2979/info/db2/rbafymstretcode.htm",
+    "title": "SQLCODEs and SQLSTATEs"
+  },
+  {
+    "link": "https://www-01.ibm.com/support/knowledgecenter/SSEPEK_10.0.0/com.ibm.db2z10.doc.apsg/src/tpc/db2z_sqlstatementsc.dita",
+    "title": "Programming C and C++ applications that issue SQL statements"
+  },
+  {
+    "link": "http://www-01.ibm.com/support/knowledgecenter/ssw_ibm_i_71/rzala/rzalaco.htm",
+    "title": "SQLCODE and SQLSTATE concepts"
+  },
+  {
+    "link": "http://stackoverflow.com/questions/15470846/how-to-create-rpg-iv-to-insert-and-retrieve-data-from-db2",
+    "title": "ibm midrange - How to create RPG IV to insert and retrieve data from DB2 - Stack Overflow"
+  },
+  {
+    "link": "http://www.itjungle.com/fhg/fhg102407-story02.html",
+    "title": "Four Hundred Guru--Externally Described Database IO through Data Structures"
+  },
+  {
+    "link": "http://www-01.ibm.com/support/knowledgecenter/ssw_ibm_i_61/cl/gencsrc.htm",
+    "title": "Generate C/C++ Source (GENCSRC)"
+  },
+  {
+    "link": "http://www.rpgpgm.com/2013/08/validation-chain-versus-setll.html",
+    "title": "Validation: CHAIN versus SETLL | RPGPGM.COM (tutorial)"
+  },
+  {
+    "link": "http://www.code400.com/forum/showthread.php/1928-How-to-do-a-setll-with-no-key",
+    "title": "How to do a setll with no key"
+  },
+  {
+    "link": "http://www.ilerpgprogramming.com/2012/08/how-to-move-record-format-to-data.html",
+    "title": "How to move a record format to a data structure | ile rpg programming: tips and techniques"
+  },
+  {
+    "link": "http://www.codeproject.com/Articles/339899/Using-jtOpen-from-Net-code-IKVM",
+    "title": "Using jtOpen from .Net code - IKVM - CodeProject"
+  },
+  {
+    "link": "http://www.rpgiv.info/mambo/index.php?option=com_content&task=view&id=357&Itemid=9",
+    "title": "Write to Job Log - RPGIV @ Work"
+  },
+  {
+    "link": "http://www.go4as400.com/chapterload.aspx?cid=26",
+    "title": "Design screen with STRSDA - Go4As400.com"
+  },
+  {
+    "link": "https://www.ibm.com/developerworks/community/wikis/home?lang=en#!/wiki/We13116a562db_467e_bcd4_882013aec57a/page/Coding%20in%20RPG%20IV%20-%20Chapter%205%20Display%20files",
+    "title": "RPG Cafe : Coding in RPG IV : Chapter 5 Display files (tutorial)"
+  },
+  {
+    "link": "http://www.mcpressonline.com/programming/rpg/retrieve-the-function-key-used-on-a-display-file.html",
+    "title": "Retrieve the Function Key Used on a Display File | RPG (tutorial)"
+  },
+  {
+    "link": "http://www.jcrcmds.com/",
+    "title": "jcrcmds"
+  },
+  {
+    "link": "http://requirements.common.org/powerbase/view/ideasIBM.htm?db=ideasIBM&Where=ID%20=%20305",
+    "title": "COMMON A Users Group - Requirements Center"
+  },
+  {
+    "link": "https://godzillai5.wordpress.com/2015/07/26/what-can-i-do-with-ssh-on-ibmi-the-alternative-to-qp2term-aka-omgawful/",
+    "title": "What can i do with SSH on IBMi? The alternative to QP2TERM AKA \"OMGAwful\""
+  },
+  {
+    "link": "http://www.go4as400.com/chapterload.aspx?cid=114",
+    "title": "DSPF cursor location"
+  },
+  {
+    "link": "http://www.classanova.com/view?id=1502&p=1",
+    "title": "SQL INSERT/UPDATE vs RPG WRITE/CHAIN (tutorial)"
+  },
+  {
+    "link": "http://www.itjungle.com/fhg/fhg081005-story01.html",
+    "title": "Four Hundred Guru--Embedding SQL in RPG IV--Episode I (tutorial)"
+  },
+  {
+    "link": "https://candidate.psiexams.com/catalog/fti_agency_license_details.jsp?fromwhere=findtest&testid=3953",
+    "title": "PSI Online - One stop Solution for Test Takers"
+  },
+  {
+    "link": "http://club.alanseiden.com/community/threads/using-sqlrpgle-to-return-array-of-select-results.20/",
+    "title": "Using SQLRPGLE to return array of SELECT results | Club Seiden (tutorial)"
+  },
+  {
+    "link": "http://www.penton.com/webcasts/day2session3-introtoembeddedsql_cruikshank.pdf",
+    "title": "day2session3-introtoembeddedsql_cruikshank.pdf"
+  },
+  {
+    "link": "http://iinthecloud.com/idev-cloud/",
+    "title": "iInTheCloud Personal Cloud"
+  },
+  {
+    "link": "http://www.go4as400.com/chapterload.aspx?cid=542",
+    "title": "CRTCMD(Create Command) - Go4As400.com"
+  },
+  {
+    "link": "https://www-01.ibm.com/support/knowledgecenter/ssw_ibm_i_72/cl/sndsmtpemm.htm",
+    "title": "sndsmtpemm"
+  },
+  {
+    "link": "http://archive.midrange.com/rpg400-l/200506/msg00326.html",
+    "title": "RE: Easy way to get System name from ILE RPG? -- RPG400-L"
+  },
+  {
+    "link": "http://www.itjungle.com/fhg/fhg051309-story02.html",
+    "title": "SQL's Other Fetch Options"
+  },
+  {
+    "link": "http://stackoverflow.com/questions/1470056/how-to-update-a-column-fetched-by-a-cursor-in-tsql",
+    "title": "sql - How to update a column fetched by a cursor in TSQL - Stack Overflow"
+  },
+  {
+    "link": "https://jazz.net/library/article/769",
+    "title": "Building IBM i applications with Rational Team Concert - Library: Articles - Jazz Community Site"
+  },
+  {
+    "link": "http://www.mcpressonline.com/programming/sql/why-use-embedded-sql-within-rpg.html",
+    "title": "Why Use Embedded SQL Within RPG? | SQL"
+  },
+  {
+    "link": "https://godzillai5.wordpress.com/2014/10/15/special-registers-on-db2-for-ibm-i/",
+    "title": "Special Registers on DB2 for IBM i – Retrieve via SQL | GodzillaI5"
+  },
+  {
+    "link": "http://www.rpgpgm.com/2016/03/a-better-way-to-read-file-in-ifs-with.html",
+    "title": "A better way to read a file in the IFS with RPG | RPGPGM.COM (turorial)"
+  },
+  {
+    "link": "http://www.rpgpgm.com/2013/10/condition-display-fields-without.html",
+    "title": "Condition display fields without indicators | RPGPGM.COM"
+  },
+  {
+    "link": "http://www.itjungle.com/fhg/fhg120314-story02.html",
+    "title": "GET_JOB_INFO db2"
+  },
+  {
+    "link": "http://www.mysamplecode.com/2011/06/rpgle-xml-parser-xml-sax-and-xml-into.html",
+    "title": "RPGLE XML Parser - XML-SAX and XML-INTO sample code Part 7"
+  },
+  {
+    "link": "http://www.midrangenews.com/view?id=2295",
+    "title": "A Bakers Dozen or so Useful RPG IV Tips from Bob Cozzi"
+  },
+  {
+    "link": "http://publib.boulder.ibm.com/html/as400/ic2924/info/java/rzaha/RZAHAM26.HTM",
+    "title": "Using the AS/400 Developer Kit for Java"
+  },
+  {
+    "link": "http://www.ibm.com/support/knowledgecenter/search/?scope=ssw_ibm_i_73",
+    "title": "7.3 IBM Documentation search"
+  },
+  {
+    "link": "http://www.ibm.com/developerworks/ibmi/library/i-send-receive-user-defined-soap-rest-messages-trs/index.html",
+    "title": "Send and receive user-defined SOAP and REST messages from RPG"
+  },
+  {
+    "link": "http://fieldexit.com/",
+    "title": "IBM i (System i, iSeries, AS400) Blog, Forum and Community - Field Exit"
+  },
+  {
+    "link": "http://www-03.ibm.com/systems/power/software/i/",
+    "title": "IBM i (Power Systems software)"
+  },
+  {
+    "link": "http://www.mcpressonline.com/database/techtip-check-out-the-new-db2-for-i-http-functions.html",
+    "title": "New DB2 for i HTTP Functions | Database"
+  },
+  {
+    "link": "https://www-356.ibm.com/partnerworld/wps/servlet/ContentHandler/stg_com_sys_power-development-platform",
+    "title": "IBM PartnerWorld - IBM Power Development Cloud (PDP) - Remotely access IBM Power Systems for Development, Porting and Functional testing"
+  },
+  {
+    "link": "http://www-03.ibm.com/systems/power/hardware/s824/specs.html",
+    "title": "IBM Power System S824 specifications"
+  },
+  {
+    "link": "https://www.ibm.com/developerworks/ibmi/library/i-ibmi-rpg-support/",
+    "title": "Free-form RPG support on IBM i (tutorial)"
+  },
+  {
+    "link": "http://www.rzkh.de/",
+    "title": "RZKH Hosting"
+  },
+  {
+    "link": "http://www-01.ibm.com/support/docview.wss?uid=swg21667734",
+    "title": "IBM How to install IBM Rational Developer for i trial from the web"
+  },
+  {
+    "link": "http://stackoverflow.com/questions/346512/sql-query-of-multi-member-file-on-as400",
+    "title": "jdbc - SQL query of multi-member file on AS400 - Stack Overflow"
+  },
+  {
+    "link": "https://www.ibm.com/developerworks/community/wikis/home?lang=en#!/wiki/IBM%20i%20Technology%20Updates/page/IBM%20i%207.3%20-%20Base%20Enhancements",
+    "title": "IBM i Technology Updates : IBM i 7.3 - Base Enhancements"
+  },
+  {
+    "link": "https://www.ibm.com/developerworks/wishlist/",
+    "title": "IBM developerWorks : Topic suggestions for authors"
+  },
+  {
+    "link": "http://www.ibmidammit.com/",
+    "title": "IBM i Dammit | Just another IBM i site"
+  },
+  {
+    "link": "https://www.ibm.com/developerworks/rfe/execute?use_case=recentlyVoted&BRAND_ID=352&PROD_ID=1476",
+    "title": "IBM Software RFE Community: Top requests"
+  },
+  {
+    "link": "https://www.ibm.com/developerworks/community/wikis/home?lang=en#!/wiki/IBM%20i%20Technology%20Updates/page/DB2%20for%20i%20Services%20-%20System%20names%20for%20new%20files%20in%20QSYS2",
+    "title": "IBM i Technology Updates : DB2 for i Services - System names for new files in QSYS2"
+  },
+  {
+    "link": "https://www-304.ibm.com/services/learning/ites.wss/zz-en?pageType=page&c=C597991Y36724R73",
+    "title": "Power Systems and System Storage Technical Univ."
+  },
+  {
+    "link": "http://www.all-about-i.info/2016/06/09/get-euro-exchange-rates-from-ecbbce-webservice/",
+    "title": "Get Euro Exchange Rates from ECB/BCE WebService | All-About-i.info"
+  },
+  {
+    "link": "https://www.ibm.com/developerworks/community/wikis/home?lang=en#/wiki/Power%20Systems/page/IBM%20i",
+    "title": "Power Systems : IBM i"
+  },
+  {
+    "link": "http://www.mcpressonline.com/database/techtip-work-with-json-arrays-in-db2-for-i.html",
+    "title": "TechTip: Work with JSON Arrays in DB2 for i | Database"
+  },
+  {
+    "link": "http://www.mcpressonline.com/tips-techniques/sql/techtip-prepare-to-declare.html",
+    "title": "TechTip: PREPARE to DECLARE | SQL"
+  },
+  {
+    "link": "http://comments.gmane.org/gmane.comp.lang.as400.rpg/34174",
+    "title": "SQL CURSOR CLOSE DISCUSSION"
+  },
+  {
+    "link": "http://stackoverflow.com/questions/4842098/can-i-create-logical-files-in-as400-using-sql",
+    "title": "Can i create &quot;logical files&quot; in AS400 using sql? - Stack Overflow"
+  },
+  {
+    "link": "http://stackoverflow.com/questions/7045254/as-400-db2-logical-file-vs-table-index",
+    "title": "sql - AS/400 DB2 Logical File vs Table Index - Stack Overflow"
+  },
+  {
+    "link": "https://www.ibm.com/developerworks/community/wikis/home?lang=en#!/wiki/IBM i Technology Updates/page/Orion",
+    "title": "IBM i Technology Updates : Orion"
+  },
+  {
+    "link": "https://www.ibm.com/support/knowledgecenter/SSEPGG_9.7.0/com.ibm.db2.luw.sql.ref.doc/doc/r0000919.html",
+    "title": "CREATE INDEX - IBM DB2 9.7 for Linux, UNIX, and Windows"
+  },
+  {
+    "link": "http://www.ibmsystemsmag.com/ibmi/developer/modernization/A-Debate--DDS-vs--DDL/",
+    "title": "DDS or DDL? - IBM Systems Magazine"
+  },
+  {
+    "link": "http://www-03.ibm.com/systems/power/software/i/db2/support/code/sample-sqldata.html",
+    "title": "IBM DB2 for i code example: sample database"
+  },
+  {
+    "link": "http://ibmsystemsmag.com/ibmi/developer/general/nodejs-rpg-db2/",
+    "title": "NodeJS db2 connection"
+  },
+  {
+    "link": "http://www-01.ibm.com/support/docview.wss?uid=nas8N1019721",
+    "title": "IBM Data Transfer and CCSID 65535 Database Files - United States"
+  },
+  {
+    "link": "http://www.rpgpgm.com/2016/03/new-rpg-compiler-directives-set-and.html",
+    "title": "New RPG compiler directives /SET and /RESTORE | RPGPGM.COM - From AS400 to IBM i"
+  },
+  {
+    "link": "https://www-01.ibm.com/software/globalization/ccsid/ccsid_registered.html",
+    "title": "Coded character set identifiers"
+  },
+  {
+    "link": "https://www.ibm.com/developerworks/community/forums/html/topic?id=73917ac0-b6cf-4728-80f6-b40db4be260e",
+    "title": "Information Management:DB2 for i:SQLSTATE 57017 in RPG using SQL UDF - DB2 for i Forum"
+  },
+  {
+    "link": "https://www.ibm.com/developerworks/community/wikis/home?lang=en#!/wiki/IBM%20i%20Technology%20Updates/page/New%20HTTP%20functions%20added%20to%20SYSTOOLS",
+    "title": "IBM i Technology Updates : New HTTP functions added to SYSTOOLS"
+  },
+  {
+    "link": "http://www.midrangenews.com/view?id=2426",
+    "title": "SQL HTTP Services"
+  },
+  {
+    "link": "http://www.mcpressonline.com/web-languages/techtip-db2-for-i-http-functions-part-2-request-and-response-header-fields.html",
+    "title": "TechTip: DB2 for i HTTP Functions, Part 2: Request and Response Header Fields | Web Languages"
+  },
+  {
+    "link": "http://www.ibm.com/support/knowledgecenter/ssw_ibm_i_72/db2/rbafzhctabl.htm",
+    "title": "CREATE TABLE"
+  },
+  {
+    "link": "https://www.ibm.com/support/knowledgecenter/SSEPEK_10.0.0/com.ibm.db2z10.doc.sqlref/src/tpc/db2z_currenttimestamp.html",
+    "title": "DB2 10 - DB2 SQL - CURRENT TIMESTAMP"
+  },
+  {
+    "link": "http://www.rpgpgm.com/2015/02/changing-case-using-sql.html",
+    "title": "Changing Case using SQL | RPGPGM.COM - From AS400 to IBM i"
+  },
+  {
+    "link": "http://archive.midrange.com/rpg400-l/200705/msg00459.html",
+    "title": "RE: Packed decimal parameters -- RPG400-L"
+  },
+  {
+    "link": "http://stackoverflow.com/questions/1750335/can-sql-table-have-multiple-columns-with-primary-key",
+    "title": "Can SQL table have multiple columns with primary key? - Stack Overflow"
+  },
+  {
+    "link": "http://stackoverflow.com/questions/487314/primary-key-or-unique-index",
+    "title": "sql - Primary key or Unique index? - Stack Overflow"
+  },
+  {
+    "link": "http://stackoverflow.com/questions/9565996/difference-between-primary-key-and-unique-key",
+    "title": "database - difference between primary key and unique key - Stack Overflow"
+  },
+  {
+    "link": "https://www.ibm.com/support/knowledgecenter/ssw_ibm_i_72/rzarh/hchkglovar.htm",
+    "title": "IBM Knowledge Center - use this instead of QCMDEXEC (tutorial)"
+  },
+  {
+    "link": "http://www.iseriespython.com/app/ispMain.py/Start?job=Home",
+    "title": "iSeriesPython"
+  },
+  {
+    "link": "http://publib.boulder.ibm.com/html/as400/v4r5/ic2924/index.htm?info/db2/rzajpmst132.htm",
+    "title": "iSeries Information Center"
+  },
+  {
+    "link": "http://www.itjungle.com/fhg/fhg031704-story02.html",
+    "title": "Four Hundred Guru--Using &#39;New&#39; SQL Data Types in RPG"
+  },
+  {
+    "link": "http://www.ibm.com/developerworks/data/library/techarticle/dm-1105httprestdb2/",
+    "title": "Accessing HTTP and RESTful services from DB2: Introducing the REST user-defined functions for DB2"
+  },
+  {
+    "link": "https://github.com/curl/curl/tree/master/packages/OS400",
+    "title": "curl/packages/OS400 at master · curl/curl"
+  },
+  {
+    "link": "http://www.ibm.com/developerworks/ibmi/library/i-omnifind/omnifind.html",
+    "title": "Searching Spool Files and IFS Stream Files"
+  },
+  {
+    "link": "http://www.ibm.com/developerworks/data/library/techarticle/0205pilaka/0205pilaka2.html",
+    "title": "Generating Unique Values in DB2 Universal Database"
+  },
+  {
+    "link": "http://www.code400.com/forum/forum/built-in-functions/examples/12243-sql-identity-value-display-the-last-sequence-number",
+    "title": "SQL Identity Value &amp; Display the last sequence number.. - Code400 -The Support Alternative"
+  },
+  {
+    "link": "http://stackoverflow.com/questions/13466347/how-to-auto-increment-in-db2",
+    "title": "auto increment - How to AUTO_INCREMENT in db2? - Stack Overflow"
+  },
+  {
+    "link": "http://www.ibm.com/developerworks/ibmi/library/i-incorporating-web-service/",
+    "title": "Incorporate web services into your SQL queries"
+  },
+  {
+    "link": "http://www.mcpressonline.com/programming/sql/practical-sql-calling-rpg-from-sql-part-i.html",
+    "title": "Practical SQL: Calling RPG from SQL, Part I | SQL"
+  },
+  {
+    "link": "https://www.ibm.com/support/knowledgecenter/ssw_ibm_i_73/rzasd/openaccexample.htm",
+    "title": "Example of an Open Access Handler"
+  },
+  {
+    "link": "http://midwareservices.com/RPGIV/opm_vs_ile.htm",
+    "title": "OPM v ILE"
+  },
+  {
+    "link": "http://www.rpgpgm.com/2014/02/defining-variables-in-rpg-all-free.html",
+    "title": "Defining variables in RPG all free | RPGPGM.COM - From AS400 to IBM i"
+  },
+  {
+    "link": "https://www.ibm.com/support/knowledgecenter/ssw_ibm_i_73/rzajp/rzajppdf.pdf",
+    "title": "embedded sql manual"
+  },
+  {
+    "link": "http://www.ibm.com/support/knowledgecenter/ssw_ibm_i_73/apis/database2.htm",
+    "title": "Call Level Interface (CLI) APIs"
+  },
+  {
+    "link": "http://www.ibm.com/support/knowledgecenter/ssw_i5_54/rzakc/rzakcmstdfdatfmt.htm",
+    "title": "IBM Knowledge Center - DATFMT (Date Format) keyword for display files"
+  },
+  {
+    "link": "http://www.longpelaexpertise.com/toolsCode.php",
+    "title": "ASCII / EBCDIC Code Converter - Longpela Expertise"
+  },
+  {
+    "link": "http://www.jcrcmds.com/",
+    "title": "JCRCMDS AS/400 UTILITIES"
+  },
+  {
+    "link": "http://www.mcpressonline.com/programming/rpg/writing-stored-procedures-in-rpg.html",
+    "title": "Writing Stored Procedures in RPG | RPG"
+  },
+  {
+    "link": "http://www.ibmsystemsmag.com/ibmi/developer/rpg/rpg_stored_procedures/?page=2",
+    "title": "IBM Systems Magazine - Stored Procedures"
+  },
+  {
+    "link": "http://rpgdeveloper.altervista.org/index.php?view=article&id=150%3Ause-libl-for-stored-procedures-and-udfs&option=com_content&Itemid=44",
+    "title": "Use *LIBL for Stored Procedures and UDFs"
+  },
+  {
+    "link": "http://archive.midrange.com/rpg400-l/201312/msg00174.html",
+    "title": "Re: Free form PSDS *PROC -- RPG400-L"
+  },
+  {
+    "link": "http://www.ibm.com/support/knowledgecenter/ssw_i5_54/rzalf/rzalfshell.htm",
+    "title": "Running an i5/OS PASE program with QP2SHELL()"
+  },
+  {
+    "link": "https://www-01.ibm.com/support/docview.wss?uid=swg21667734",
+    "title": "IBM How to install IBM Rational Developer for i trial from the web - United States"
+  },
+  {
+    "link": "https://bitbucket.org/pegu/iseries_python27/src/23cf7c0e1568?at=default",
+    "title": "pegu / iseries_python27 / source / — Bitbucket"
+  },
+  {
+    "link": "https://bitbucket.org/ibmi/opensource/wiki/Home",
+    "title": "ibmi / opensource / "
+  },
+  {
+    "link": "https://www.reddit.com/r/blackfriday/comments/5ehb6e/scouting_megathread_have_a_question_or_need_help/?st=ivwrnhd7&sh=a86dcff3",
+    "title": "[SCOUTING MEGATHREAD] Have a question or need help? Ask here! Text posts are no longer allowed : blackfriday"
+  },
+  {
+    "link": "https://www.ibm.com/developerworks/community/forums/html/topic?id=77777777-0000-0000-0000-000014831898#77777777-0000-0000-0000-000014831898",
+    "title": "Rational Cafe:RPG Cafe:RPG Cafe:Use of EVAL(m/r) - RPG Cafe Forum"
+  },
+  {
+    "link": "http://www.redbooks.ibm.com/abstracts/sg245402.html?Open",
+    "title": "IBM Redbooks | Who Knew You Could Do That with RPG IV? Modern RPG for the Modern Programmer"
+  },
+  {
+    "link": "https://www.ibm.com/developerworks/community/forums/html/topic?id=2073ff6c-c587-41d2-a47a-207a8227bcc8&ps=25",
+    "title": "JSON_TABLE in RPG - RPG Cafe Forum"
+  },
+  {
+    "link": "http://www.ibm.com/support/knowledgecenter/ssw_ibm_i_73/rzarf/hinst.htm",
+    "title": "C/C++ Industry Standards"
+  },
+  {
+    "link": "http://www.ibm.com/support/knowledgecenter/POWER8/p8ego/p8ego_sslconfig1.htm",
+    "title": "Configuring SSL on AIX, VIOS, or Linux"
+  },
+  {
+    "link": "http://publib.boulder.ibm.com/iseries/v5r1/ic2924/books/c0927122150.htm",
+    "title": "ILE Source Debugger and ILE C Application Hints"
+  },
+  {
+    "link": "https://www.ibm.com/support/knowledgecenter/ssw_ibm_i_73/cli/rzadpfnfetch.htm",
+    "title": "SQLFetch api"
+  },
+  {
+    "link": "https://www-01.ibm.com/common/ssi/ShowDoc.wss?docURL=/common/ssi/rep_ca/2/897/ENUS216-452/index.html&lang=en&request_locale=en",
+    "title": "IBM i 7.3 TR"
+  },
+  {
+    "link": "http://archive.midrange.com/rpg400-l/200511/msg00524.html",
+    "title": "Re: Variable (big) number of parameters RPG -- RPG400-L"
+  },
+  {
+    "link": "http://www.ibm.com/support/knowledgecenter/en/ssw_ibm_i_73/rzarf/hinst.htm",
+    "title": "C / C++ - Industry Standards"
+  },
+  {
+    "link": "http://www.ibm.com/support/knowledgecenter/ssw_ibm_i_72/rzajq/rzajqservicessys.htm",
+    "title": "IBM i Services"
+  },
+  {
+    "link": "http://www-01.ibm.com/support/docview.wss?uid=nas8N1010160",
+    "title": "IBM RPG Subfile Example with Record Selection - United States"
+  },
+  {
+    "link": "http://www.itjungle.com/fhg/fhg012616-printer03.html",
+    "title": "Text Data Natively in SQL, Part 1"
+  },
+  {
+    "link": "http://www.ibm.com/support/knowledgecenter/ssw_ibm_i_73/cli/rzadphdapi.htm",
+    "title": "DB2 for i CLI functions"
+  },
+  {
+    "link": "http://www.astradyne.net/cgi-bin/code/index.php?id=a697c30f5b",
+    "title": "QLICOBJD"
+  },
+  {
+    "link": "http://stackoverflow.com/questions/40156384/how-to-query-a-file-using-c-on-ibm-as-400",
+    "title": "How to query a file using C++ on IBM AS/400 - Stack Overflow"
+  },
+  {
+    "link": "http://www-01.ibm.com/common/ssi/ShowDoc.wss?docURL=/common/ssi/rep_ca/7/877/ENUSZG17-0027/index.html&lang=en&request_locale=en#xchargex",
+    "title": "IBM Power System S812 server offers solid foundation for critical workloads in departmental scale-out environments"
+  },
+  {
+    "link": "https://www.ibm.com/developerworks/aix/library/au-aix_cmds/",
+    "title": "IBM AIX commands you should not leave home without"
+  },
+  {
+    "link": "http://db2fori.blogspot.co.uk/2013/10/in-memory.html",
+    "title": "DB2 for i: In Memory..."
+  },
+  {
+    "link": "https://www-01.ibm.com/common/ssi/cgi-bin/ssialias?subtype=SP&infotype=PM&appname=STGE_PO_PO_USEN&htmlfid=POD03105USEN",
+    "title": "IBM Power System E880"
+  },
+  {
+    "link": "http://club.alanseiden.com/learninghall/article/5733-ops-installation-guide/",
+    "title": "5733-OPS Installation Guide"
+  },
+  {
+    "link": "https://www.ibm.com/developerworks/community/forums/html/topic?id=082ed87d-3407-4ee8-bb2c-5d5556a9a14d",
+    "title": "Rational Cafe:RPG Cafe:RPG Cafe:Use of the iconv api in RPG - RPG Cafe Forum"
+  },
+  {
+    "link": "https://www-356.ibm.com/partnerworld/wps/servlet/ContentHandler/pw_com_porting_ibmi_pase",
+    "title": "IBM PartnerWorld - IBM PASE for i"
+  },
+  {
+    "link": "http://yips.idevcloud.com/wiki/index.php/PASE/PASENutshell",
+    "title": "YiPs Wiki (i powered) - PASE Nutshell"
+  },
+  {
+    "link": "https://www.ibm.com/support/knowledgecenter/ssw_ibm_i_71/rzalf/rzalfintro.htm",
+    "title": "IBM PASE for i"
+  },
+  {
+    "link": "https://stackoverflow.com/questions/20198551/is-there-a-difference-between-collection-and-library-in-sql",
+    "title": "db2 - Is there a difference between Collection and Library in SQL? - Stack Overflow"
+  },
+  {
+    "link": "https://www.ibm.com/support/knowledgecenter/ssw_ibm_i_71/apiref/apiexusdeb.htm",
+    "title": "Example: Using IBM i source debugger APIs"
+  },
+  {
+    "link": "ftp://public.dhe.ibm.com/software/ibmi/products/pase/rpms/",
+    "title": "Index of /software/ibmi/products/pase/rpms/"
+  },
+  {
+    "link": "https://www.ibm.com/support/knowledgecenter/ssw_ibm_i_71/rzajp/rzajpequivsqlirpg.htm",
+    "title": "Determining equivalent SQL and ILE RPG data types"
+  },
+  {
+    "link": "https://www.ibm.com/support/knowledgecenter/ssw_ibm_i_73/sqlp/rbafyjson.htm",
+    "title": "Db2 for i SQL: Working with JSON data"
+  },
+  {
+    "link": "http://ibmiclock.mybluemix.net",
+    "title": "Support for IBM i v7.1 will end in..."
+  },
+  {
+    "link": "https://twitter.com/search?q=%23IBMi&src=typd",
+    "title": "#IBMi on Twitter"
+  },
+  {
+    "link": "https://www.all400s.com/",
+    "title": "ALL400s Information Services"
+  },
+  { "title": "activerecord-jdbcas400-adapter", "link":"https://github.com/pierrickrouxel/activerecord-jdbcas400-adapter" },
+  { "title": "api2.py", "link":"https://bitbucket.org/buzzh/api2" },
+  { "title": "appserver4rpg", "link":"https://sourceforge.net/projects/appserver4rpg/" },
+  { "title": "base64", "link":"https://github.com/RelicPackages/base64" },
+  { "title": "bluepkg", "link":"https://bitbucket.org/m1hael/bluepkg" },
+  { "title": "Bob", "link":"https://github.com/s4isystems/Bob" },
+  { "title": "cartridge_info", "link":"https://bitbucket.org/christianjorgensen/sql-udtf-cartridge_info" },
+  { "title": "COMMON", "link":"https://github.com/Common-OpenSourceSolutions" },
+  { "title": "cpytoxlsf.py", "link":"https://bitbucket.org/jky/cpytoxlsf.py" },
+  { "title": "crtfrmstmf", "link":"https://bitbucket.org/BrianGarland/crtfrmstmf" },
+  { "title": "crtmipgm", "link":"https://github.com/WorksOfBarry/CRTMIPGM" },
+  { "title": "cvtrpgfree", "link":"https://sourceforge.net/projects/cvtrpgfree/" },
+  { "title": "db2get", "link":"https://github.com/WorksOfBarry/DB2GET" },
+  { "title": "db2sock", "link":"https://bitbucket.org/litmis/db2sock" },
+  { "title": "db2util", "link":"https://bitbucket.org/litmis/db2util" },
+  { "title": "docmd", "link":"https://github.com/RelicPackages/docmd" },
+  { "title": "FFEDIT", "link":"https://github.com/RelicPackages/FFEDIT" },
+  { "title": "FTP Guard", "link":"https://github.com/ChrisHird/FTP_Guard" },
+  { "title": "FTPCLNT", "link":"https://github.com/ChrisHird/FTPCLNT" },
+  { "title": "Giti", "link":"https://github.com/Club-Seiden/giti" },
+  { "title": "ibm-i-enhanced", "link":"https://github.com/pierrickrouxel/ibm-i-enhanced" },
+  { "title": "ibm_db for Python", "link":"https://github.com/ibmdb/python-ibmdb/wiki/APIs" },
+  { "title": "ibmi (Node.js)", "link":"https://github.com/smokerbag/ibmi" },
+  { "title": "ibmichroot", "link":"https://bitbucket.org/litmis/ibmichroot" },
+  { "title": "ibmidash", "link":"https://bitbucket.org/litmis/ibmidash" },
+  { "title": "ibmiperzl", "link":"https://bitbucket.org/litmis/ibmiperzl" },
+  { "title": "IBMiProgTool", "link":"https://github.com/vzupka/IBMiProgTool" },
+  { "title": "IBMiSqlScripts", "link":"https://github.com/vzupka/IBMiSqlScripts" },
+  { "title": "IBMiSqlUpdate", "link":"https://github.com/vzupka/IBMiSqlUpdate" },
+  { "title": "ibmitoolkit", "link":"https://github.com/zendtech/IbmiToolkit" },
+  { "title": "iiesc", "link":"https://github.com/dferrand/iiesc" },
+  { "title": "iipster", "link":"https://github.com/iipster/iipster" },
+  { "title": "ILEDocs", "link":"https://bitbucket.org/m1hael/iledocs" },
+  { "title": "ILEUnit", "link":"http://ileunit.sourceforge.net/" },
+  { "title": "image_catalog_details", "link":"https://bitbucket.org/christianjorgensen/sql-udtf-image_catalog_details" },
+  { "title": "iRPGEditor", "link":"https://github.com/egomezal/irpgeditor" },
+  { "title": "iseries_python27", "link":"https://bitbucket.org/pegu/iseries_python27/overview" },
+  { "title": "iSphere", "link":"https://sourceforge.net/projects/isphere/" },
+  { "title": "iToolkit Generator", "link":"http://bit.ly/itoolkit-generator" },
+  { "title": "iXMLService", "link":"https://github.com/FryDay/iXMLService" },
+  { "title": "JSON webservices", "link":"https://github.com/RainerRoss/webservice-IBM-i-and-Node.js" },
+  { "title": "jt400.js", "link":"https://github.com/nodenica/jt400.js" },
+  { "title": "loopback-connector-db2i", "link":"https://github.com/pierrickrouxel/loopback-connector-db2i" },
+  { "title": "loopback-connector-db2ibmi", "link":"https://github.com/jbh/loopback-connector-db2ibmi" },
+  { "title": "loopback-connector-ibmi", "link":"https://github.com/andrescolodrero/loopback-connector-ibmi" },
+  { "title": "lstffd", "link":"https://bitbucket.org/bvstools/lstffd" },
+  { "title": "machine_attributes", "link":"https://bitbucket.org/christianjorgensen/sql-udtf-machine_attributes" },
+  { "title": "mama", "link":"https://bitbucket.org/litmis/mama" },
+  { "title": "nodejs-idb-connector", "link":"https://bitbucket.org/litmis/nodejs-idb-connector" },
+  { "title": "nodejs", "link":"https://bitbucket.org/litmis/nodejs" },
+  { "title": "noxdb", "link":"https://github.com/NielsLiisberg/noxDB" },
+  { "title": "openssl-patches", "link":"http://bit.ly/openssl-patches" },
+  { "title": "OSSILE", "link":"https://github.com/OSSILE/OSSILE" },
+  { "title": "python-itoolkit", "link":"https://bitbucket.org/litmis/python-itoolkit" },
+  { "title": "python", "link":"https://bitbucket.org/litmis/python" },
+  { "title": "Relic Package Manager", "link":"https://github.com/Club-Seiden/RelicPackageManager" },
+  { "title": "RPG for VSCode", "link":"https://github.com/NielsLiisberg/RPG-for-VSCode" },
+  { "title": "rpgdynarr", "link":"https://github.com/RelicPackages/RPGDYNARR" },
+  { "title": "rpgle.vim", "link":"https://github.com/andlrc/rpgle.vim" },
+  { "title": "rpglectags", "link":"https://github.com/andlrc/rpglectags" },
+  { "title": "rpgleman", "link":"https://github.com/andlrc/rpgleman" },
+  { "title": "rpgleparser", "link":"https://github.com/rpgleparser/rpgleparser" },
+  { "title": "rpgmail", "link":"https://github.com/RelicPackages/RPGMAIL" },
+  { "title": "RpgMap", "link":"https://github.com/jerps/RpgMap" },
+  { "title": "RPGUnit", "link":"http://rpgunit.sourceforge.net/" },
+  { "title": "ruby-ibm_db", "link":"https://bitbucket.org/litmis/ruby-ibm_db" },
+  { "title": "ruby-itoolkit", "link":"https://bitbucket.org/litmis/ruby-itoolkit" },
+  { "title": "ruby", "link":"https://bitbucket.org/litmis/ruby" },
+  { "title": "sails-db2fori", "link":"http://bit.ly/litmis-sails-db2fori" },
+  { "title": "scnmsgf", "link":"https://bitbucket.org/bvstools/scnmsgf" },
+  { "title": "SEUEXIT", "link":"https://github.com/starbuck5250/SEUEXIT" },
+  { "title": "shellinabox", "link":"https://github.com/shellinabox/shellinabox" },
+  { "title": "SMS with Twilio", "link":"https://github.com/RainerRoss/Send-SMS-with-Twilio-from-IBM-i" },
+  { "title": "SU", "link":"https://bitbucket.org/cmasseVolubis/volubis" },
+  { "title": "swift-itoolkit", "link":"https://bitbucket.org/litmis/swift-itoolkit/" },
+  { "title": "system400", "link":"https://bitbucket.org/litmis/system400" },
+  { "title": "tn5250j", "link":"https://github.com/tn5250j/tn5250j" },
+  { "title": "TOP", "link":"https://github.com/OSSILE/TOP" },
+  { "title": "Ublu", "link":"https://github.com/jwoehr/ublu" },
+  { "title": "USRSPCOA", "link":"https://bitbucket.org/ataylorkt/usrspcoa" },
+  { "title": "utils-on-power", "link":"https://github.com/ExpatPaul/utils-on-power" },
+  { "title": "vlang-rpg", "link":"https://bitbucket.org/inext/vlang-rpg" },
+  { "title": "web5250", "link":"https://github.com/OSSonIBMi/web5250/" },
+  { "title": "xmlservice-rpg", "link":"https://bitbucket.org/inext/xmlservice-rpg" },
+  { "title": "zipSeries", "link":"https://github.com/andlrc/zipSeries" },
+  { "title": "ZLIB", "link":"https://github.com/ChrisHird/ZLIB" },
+  { "title": "Rosetta - Great for learning differences of AIX/PASE compared to Linux.", "link": "http://bhami.com/rosetta.html"},
+  { "title": "Midrange.com - Traditional mailing list created specifically for IBM i Open Source.", "link": "http://lists.midrange.com/mailman/listinfo/opensource" },
+  { "title": "Excerpts and downloadable source code for Carsten Flensburg's 'APIs by Example' articles", "link": "https://apimymymy.wordpress.com/"},
+  { "title": "IBM i developerWorks on Open-Source", "link": "http://bit.ly/5733OPS-developerWorks"},
+  { "title": "ibm-midrange on StackOverflow", "link": "https://stackoverflow.com/questions/tagged/ibm-midrange" },
+  { "title": "Litmis", "link": "http://litmis.com" },
+  { "title": "Blog with various IBM i Open Source articles by Josh Hall", "link": "http://sobo.red" },
+  { "title": "youngiprofessionals / YiPs", "link": "http://youngiprofessionals.com"},
+  { "title": "Using Git from RDi", "link": "http://www.shieldadvanced.com/Blog/ibm-i/getting-ready-for-open-source-development/"},
+  { "title": "PHP on IBM i Blog", "link": "https://godzillai5.wordpress.com/" },
+  { "title": "Node.js, PASE, and Python Intro", "link": "https://www.gitbook.com/@litmis"},
+  { "title": "ILEditor, a free ILE/RPG IDE", "link": "http://worksofbarry.com/ileditor/"},
+  { "title": "IBM i documentation (all versions)", "link": "https://www.ibm.com/support/knowledgecenter/ssw_ibm_i"},
+  { "title": "Coding in RPG IV - a beginner's tutorial", "link": "http://ibm.biz/rpgCafe_Rpg_Tutorial_Older_Syntax"},
+  { "title": "Coding in Free-Form RPG IV - a beginner's tutorial", "link": "https://ibm.biz/rpgCafe_Freeform_Rpg_Tutorial"},
+  { "title": "Rational Developer for i (IDE / Editor)", "link": "https://www.ibm.com/developerworks/downloads/r/rdi/index.html"},
+  { "title": "IBMiCmd: x86 Notepad++ plugin for ILE development on IBM i (Editor)", "link": "http://worksofbarry.com/npp/"},
+  { "title": "SQL's Other Fetch Options", "link": "https://www.itjungle.com/2009/05/13/fhg051309-story02/" },
+  { "title": "Node.js (developerWorks)", "link": "https://www.ibm.com/developerworks/community/wikis/home?lang=en#!/wiki/IBM%20i%20Technology%20Updates/page/Node.js" },
+  { "title": "Node.js: DB2 for i Access APIs - New", "link": "https://www.ibm.com/developerworks/community/wikis/home?lang=en#!/wiki/IBM%20i%20Technology%20Updates/page/DB2%20for%20i%20Access%20APIs%20-%20New" },
+  { "title": "The new DB2 driver and toolkit for Node.js on IBM i", "link": "https://www.ibm.com/developerworks/community/wikis/home?lang=en#!/wiki/IBM%20i%20Technology%20Updates/page/The%20new%20DB2%20driver%20and%20toolkit%20for%20Node.js%20on%20IBM%20i" },
+  { "title": "Common IBM i API Prototypes for RPG", "link": "http://www.midrangenews.com/view?id=2384" },
+  { "title": "Using SSH-COPY-ID (tutorial)", "link": "https://www.ssh.com/ssh/copy-id"},
+  { "title": "IBM i Home", "link": "https://www.ibm.com/power/operating-systems/ibm-i"},
+  { "title": "IBM Power Systems", "link": "https://www.ibm.com/power"},
+  { "title": "IBM i Group PTFs with level", "link": "http://www-01.ibm.com/support/docview.wss?uid=nas4PSPbyNum"},
+  { "title": "IBM i Access Client Solutions (ACS)", "link": "http://www-03.ibm.com/systems/power/software/i/access/solutions.html"},
+  { "title": "IBM Redbooks", "link": "http://www.redbooks.ibm.com/"},
+  { "title": "IBM i Licensed program releases and sizes", "link": "https://www.ibm.com/support/knowledgecenter/en/ssw_ibm_i_73/rzahc/rzahcswslpsze.htm"},
+  { "title": "TheIBMi.org - Bart's blog: IBM i and PowerVM features and tools", "link": "https://theibmi.org/"},
+  { "title": "IBM DB2 for i manuals", "link": "http://www-03.ibm.com/systems/power/software/i/db2/docs/books.html"},
+  { "title": "Db2 for i SQL reference", "link": "https://www.ibm.com/support/knowledgecenter/en/ssw_ibm_i_73/db2/rbafzintro.htm"},
+  { "title": "IBM i catalog tables and views", "link": "https://www.ibm.com/support/knowledgecenter/en/ssw_ibm_i_73/db2/rbafzcatalogtbls.htm"},
+  { "title": "IBM i Services", "link": "https://www.ibm.com/support/knowledgecenter/ssw_ibm_i_73/rzajq/rzajqservicessys.htm"},
+  { "title": "Db2 for i forum", "link": "https://www.ibm.com/developerworks/community/forums/html/forum?id=11111111-0000-0000-0000-000000000292&ps=25"},
+  { "title": "IBM i developerWorks (documentation)", "link":"https://www.ibm.com/developerworks/learn/ibmi/index.html"},
+  { "title": "RPGLE - Web Requests with Embedded SQL (tutorial)", "link": "http://worksofbarry.com/?4"},
+  { "title": "RPGLE - Writing and reading IFS files  (tutorial)", "link": "http://worksofbarry.com/?3"}
+  
+  
+] 

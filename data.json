@@ -838,6 +838,13 @@ entries = [
   { "title": "TechTip: Shoot for Orion with Your RPG (editor)", "link": "https://www.mcpressonline.com/programming/rpg/techtip-shoot-for-orion-with-your-rpg"},
   { "title": "Starting the OpenSSH Server (SSHD) on IBM i (pase, tutorial)", "link": "http://www-01.ibm.com/support/docview.wss?uid=nas8N1012910"},
   { "title": "DB2 for i - blog of Mike Cain", "link": "http://db2fori.blogspot.co.uk/"},
+  { "title": "IBM Support - IBM i Fix Central", "link": "https://www-945.ibm.com/support/fixcentral/"},
+  { "title": "IBM Support - Warranty lookup", "link": "https://www.ibm.com/support/home/warranty-lookup"},
+  { "title": "IBM Redbooks for IBM i (documentation)", "link": "http://www.redbooks.ibm.com/redbooks.nsf/searchsite?SearchView&query=%22ibm+i%22"},
+  { "title": "IT Jungle - PTF Guide for IBM i",  "link": "https://www.itjungle.com/?s=ptf+guide"},
+  { "title": "RPG Cafe Blog", "link": "https://www.ibm.com/developerworks/community/blogs/b542d3ac-0785-4b6f-8e53-f72051460822?lang=en"},
+  { "title": "IBM i OPEN SOURCE", "link": "http://ibmiopensource.blogspot.co.uk/"},
+  { "title": "IT Jungle - IT blog (including IBM i)", "link": "https://www.itjungle.com/"},
   
   
   { "title": "Seiden Group - The PHP on IBM i Experts", "link": "https://www.seidengroup.com/"},

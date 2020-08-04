@@ -4,19 +4,18 @@
     <title>IBM i Search</title>
     <script type="text/javascript" src="data.json"></script>
     <script src="js/jquery-3.2.1.min.js"></script>
-    <link href="css/stylesheet.css" rel="stylesheet" type="text/css">
+    <link href="css/stylesheet.css" rel="stylesheet" type="text/css" />
   </head>
-  
+
   <body>
     <div id="toptext">
       <div id="topcontent">
-        <h1><img id="image" src="img/ibmi.png"> IBM i search</h1>
+        <h1><img id="image" src="img/ibmi.png" /> IBM i search</h1>
       </div>
     </div>
     <div id="bodycontent">
       <div id="quicksearch">
-        index size: <span id="indexsize"></span>,
-        find tutorials:
+        index size: <span id="indexsize"></span>, find tutorials:
         <span id="qsbutton" OnClick="quickSearch(this);">ibmi</span>
         <span id="qsbutton" OnClick="quickSearch(this);">db2</span>
         <span id="qsbutton" OnClick="quickSearch(this);">rpg</span>
@@ -25,14 +24,16 @@
         <span id="qsbutton" OnClick="quickSearch(this);">pase</span>
         <span id="qsbutton" OnClick="quickSearch(this);">editors</span>
       </div>
-      <input type="text" id="search" placeholder="Search..">
-      
+      <input type="text" id="search" placeholder="Search.." />
+
       <div id="list2">
-         <ol id="listing">
-         </ol>
+        <ol id="listing"></ol>
+      </div>
+      <div id="show-all">
+        <button id="show-all">Browse all</button>
       </div>
     </div>
   </body>
-  
+
   <script src="js/index.js"></script>
 </html>

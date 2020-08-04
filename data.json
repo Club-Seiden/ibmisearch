@@ -848,5 +848,9 @@ entries = [
   
   
   { "title": "Seiden Group - The PHP on IBM i Experts", "link": "https://www.seidengroup.com/"},
+  {
+    "link": "https://www.ibm.com/support/knowledgecenter/en/ssw_ibm_i_72/apifinder/finder.htm",
+    "title": "API Finder - IBM"
+  },
   
 ] 
